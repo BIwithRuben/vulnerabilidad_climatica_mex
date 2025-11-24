@@ -164,3 +164,22 @@ Columnas del dataset (42):
 * **upm**
 * **factor**
 
+---
+## DATASET concentradohogar\_90324.csv  
+dataset riginal: **concentradohogar.csv**  
+shape: **(90324, 14)**  
+Columnas del dataset (14):  
+* **folioviv**
+* **tam\_loc**
+* **est\_socio**
+* **tot\_integ**
+* **percep\_ing**
+* **ing\_cor**
+* **ingtrab**
+* **rentas**
+* **transfer**
+* **otros\_ing**
+* **estim\_alqu**
+* **gasto\_mon**
+* **mater\_serv**
+
