@@ -113,10 +113,10 @@ Columnas del dataset (82):
 * **procaptar**
 
 ---
-## DATASET hogares\_90324.csv
-dataset riginal: **hogares.csv**
-shape: **(90324, 42)**
-Columnas del dataset (42):
+## DATASET hogares\_90324.csv  
+dataset riginal: **hogares.csv**  
+shape: **(90324, 42)**  
+Columnas del dataset (42):  
 * **folioviv**
 * **n\_hogares**
 * **tot\_huespedes**
