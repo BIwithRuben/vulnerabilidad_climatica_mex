@@ -1,4 +1,4 @@
-24/11/2025
+24/11/2025  
 **DATASET gastoshogar\_90324.csv**
 dataset 0riginal: gastoshogar.csv
 Columnas creadas para facilitar la creación de la variable **gasto\_adaptacion**
